@@ -88,7 +88,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 ## License
 
-Distributed under the MIT License. See `[LICENSE](https://github.com/ArjeeshChristal/Arjeesh-/blob/master/LICENSE)` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ArjeeshChristal/Arjeesh-/blob/master/LICENSE) for more information.
 
 ## Contact
 
