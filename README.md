@@ -1,5 +1,3 @@
-Certainly! Here’s a guide to writing a README file for your GitHub portfolio. A well-crafted README should provide a clear overview of your project, how to use it, and any other relevant details. Below is an example template you can use and customize for your portfolio.
-
 ---
 
 # My Portfolio
@@ -31,28 +29,27 @@ This portfolio is designed to highlight my skills and projects in aerospace engi
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js
-- **Other Tools**: Git, GitHub, Bootstrap (or any other CSS framework you used)
+- **Other Tools**: Git, GitHub, Bootstrap , SCSS
 
 ## Projects
 
 Here are some of the key projects included in this portfolio:
 
 1. **Aerospace Design Project**
-   - Description: Designed a model aircraft using SolidWorks and tested its aerodynamics in Simulink.
-   - Technologies: SolidWorks, Simulink
-   - [Link to Project](#)
+   - Description: Designed a few UAVs
+   - [Link to Project SOON](#)
 
 2. **Portfolio Website**
-   - Description: Created a personal portfolio website using React to showcase projects and skills.
-   - Technologies: HTML, CSS, JavaScript, React
-   - [Link to Project](#)
+   - Description: Created a personal portfolio website to showcase projects and skills.
+   - Technologies: HTML, CSS, JavaScript
+   - [Link to Project SOON](#)
 
 3. **Web Development Freelance Work**
    - Description: Developed websites for small businesses, focusing on responsive design and user experience.
    - Technologies: HTML, CSS, JavaScript
-   - [Link to Project](#)
+   - [Link to Project SOON](#)
 
 ## Installation and Setup
 
@@ -101,5 +98,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **GitHub**: https://github.com/ArjeeshChristal
 
 ---
-
-By following this template, you'll provide a comprehensive and professional overview of your portfolio, making it easy for others to understand and navigate. Customize the sections as needed to fit your specific projects and skills.
