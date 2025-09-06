@@ -1,100 +1,81 @@
----
+🚀 Arjeesh Christal – Aerospace Nerd With Too Many Side Quests
 
-# My Portfolio
+Hey there! I’m Arjeesh, a B.Tech Aerospace Engineer who thought “why just fly drones when you can make them smarter than your Wi-Fi?”
+If it’s got wings, propellers, thrusters, or a PCB I can fry—chances are I’ve built, broken, and rebuilt it.
 
-Welcome to my personal portfolio! This project showcases my work and skills in aerospace engineering and web development. Below, you will find information about the features of the portfolio, how to navigate it, and some of the key projects included.
+✈️ What I Actually Do (Mostly Without Sleep)
 
-## Table of Contents
+🛸 Autonomous Drones
+Built semi-autonomous and fully autonomous drones that can map, detect obstacles, and maybe take over the world (if you’re not careful).
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Projects](#projects)
-5. [Installation and Setup](#installation-and-setup)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+Stereo vision ✅
 
-## Introduction
+SLAM ✅
 
-This portfolio is designed to highlight my skills and projects in aerospace engineering and web development. It includes various projects that I have worked on during my studies and freelance work, showcasing my abilities in both fields.
+Pixhawk + Raspberry Pi wizardry ✅
 
-## Features
+Chaos ✅
 
-- **Responsive Design**: Accessible on all devices (desktop, tablet, mobile).
-- **Project Showcase**: Detailed descriptions and links to my projects.
-- **Interactive Elements**: Includes interactive features to demonstrate my web development skills.
-- **Contact Information**: Easy-to-find contact form and social media links.
+🔥 Supersonic Stuff
+Designing Mach 3 supersonic nozzles because “fast enough” is boring.
 
-## Technologies Used
+Hybrid design approach with Method of Characteristics + CFD tuning.
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js
-- **Other Tools**: Git, GitHub, Bootstrap , SCSS
+Nerdy fluid dynamics equations included for free.
 
-## Projects
+🧠 AI + Robotics = DroneX
+YOLO-powered aerial surveillance platform that can find people, vehicles, and probably your lost cat.
 
-Here are some of the key projects included in this portfolio:
+Apache Kafka & Spark plans (because we love scalability).
 
-1. **Aerospace Design Project**
-   - Description: Designed a few UAVs
-   - [Link to Project SOON](#)
+Built for disaster response, SAR ops, and future swarms.
 
-2. **Portfolio Website**
-   - Description: Created a personal portfolio website to showcase projects and skills.
-   - Technologies: HTML, CSS, JavaScript
-   - [Link to Project SOON](#)
+🛠 Hackathon Chaos Master
 
-3. **Web Development Freelance Work**
-   - Description: Developed websites for small businesses, focusing on responsive design and user experience.
-   - Technologies: HTML, CSS, JavaScript
-   - [Link to Project SOON](#)
+Modular drone designs with hardware/software-defined everything.
 
-## Installation and Setup
+Full-stack nerd: Flask backends, React frontends, Leaflet maps, and custom telemetry pipelines.
 
-To run this project locally, follow these steps:
+⚡ Tech Superpowers
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ArjeeshChristal/Arjeesh-.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Arjeesh
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
+Things I pretend to know but actually use Stack Overflow for:
 
-## Usage
+C++ / Python / ROS / MAVLink / WebRTC
 
-Once the development server is running, you can view the portfolio by opening your browser and navigating to `http://localhost:3000`.
+SLAM, Kalman Filters, Vision-Based Navigation
 
-## Contributing
+Ansys simulations that melt GPUs faster than engines
 
-Contributions are welcome! If you have any suggestions or improvements, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+DroneKit, ArduPilot SITL, Gazebo
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Jetson Nano sorcery + Raspberry Pi hacking
 
-## License
+3D printing drone parts at 3 AM
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ArjeeshChristal/Arjeesh-/blob/master/LICENSE) for more information.
+🏆 Things I’m Weirdly Proud Of
 
-## Contact
+Crashed fewer drones this year than last year.
 
-- **Name**: Arjeesh Christal
-- **Email**: arjeesh2005@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/arjeesh-christal-aa3a6b195/
-- **GitHub**: https://github.com/ArjeeshChristal
+Made a drone fly autonomously on Mars (in simulation, don’t @ me NASA).
 
----
+IEEE Karunya Vice Chair, which sounds fancy but mostly means I run on caffeine.
+
+Built a website that streams live drone feeds with ML detection… from a literal drone.
+
+🧩 Side Quests
+
+Supersonic nozzle research
+
+Swarm robotics experiments
+
+Dual-mode drones (air + underwater because why not?)
+
+Turning random sensors into something useful (or explosive, who knows)
+
+🎯 TL;DR
+
+I’m building the future of autonomous aerospace systems while breaking stuff along the way.
+If you’re here for polished, boring code—sorry, wrong repo.
+If you’re here for messy innovation and drones that think for themselves—welcome aboard.
+
+🔥 Fun fact: My Git commits have more crashes than my drones
